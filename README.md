@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🔭 I’m currently working on [online platform for project]((project-platform-frontend.vercel.app/))
+- 🔭 I’m currently working on [online platform for project]((https://github.com/j-princi3/ProjectPlatform))
 
 - 🌱 I’m currently learning **MERN**
 
