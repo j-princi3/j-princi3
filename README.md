@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Princi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-princi3" alt="j-princi3" /></a> </p>
 
-- 🔭 I’m currently working on [online platform for project](project-platform-frontend.vercel.app)
+- 🔭 I’m currently working on [online platform for project]((https://project-platform-frontend.vercel.app/))
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/princi-jain-501538260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/princi-jain-501538260/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/princi-jain-501538260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/princi-jain-501538260/" height="30" width="40" /></a>
 <a href="https://instagram.com/j_princi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_princi3" height="30" width="40" /></a>
 </p>
 
