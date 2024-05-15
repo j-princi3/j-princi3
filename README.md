@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on [Hisab Kitab](https://github.com/j-princi3/HisabKitab)
 
 - 👨‍💻 All of my projects are available at 
-[https://github.com/j-princi3?tab=repositories](https://github.com/j-princi3?tab=repositories)
+  [My repositories](https://github.com/j-princi3?tab=repositories)
 
 - 💬 Ask me about **Django , python ,java ,c++**
 
