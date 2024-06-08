@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Design Shapes](https://github.com/j-princi3/DesignShapes)
+- 🔭 I’m currently working on [Shape Design](https://github.com/j-princi3/DesignShapes)
 
 - 🌱 I’m currently learning **game development and android development**
 
