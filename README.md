@@ -1,20 +1,20 @@
 <h1 align="center">I'm Princi Jain</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 
-- 🔭 I’m currently working on [Shape Design](https://github.com/j-princi3/DesignShapes)
+- 🔭 I’m currently working on [SAR IMAGE COLORIZATION & ANALYSIS](https://github.com/j-princi3/sar)
 
-- 🌱 I’m currently learning **game development and android development**
+- 🌱 I’m currently learning **artifical intelligence and machine learning**
 
 - 👯 I’m looking to collaborate on [Hisab Kitab](https://github.com/j-princi3/HisabKitab)
 
 - 👨‍💻 All of my projects are available at 
   [My repositories](https://github.com/j-princi3?tab=repositories)
 
-- 💬 Ask me about **Django , python ,java ,c++**
+- 💬 Ask me about **python ,java ,c++**
 
-- 📫 How to reach me **princi05j@gmail.com**
+- 📫 How to reach me **jainprinci00@gmail.com**
 
 - ⚡ Fun fact **I think I am Resilient.**
 
