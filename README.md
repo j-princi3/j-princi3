@@ -45,7 +45,7 @@
 - Built a full-stack application using the **MERN stack**
 - Focused on **accessibility, usability, and responsive design**
 
-🔗 Repo: (https://github.com/j-princi3/Shape-Design)
+🔗 Repo: https://github.com/j-princi3/Shape-Design
 
 ## 🚀 Projects
 
@@ -70,8 +70,8 @@
 🔗 Repo: https://github.com/j-princi3/sar
 
 ### Other Projects 
-- (Project Platform)[https://github.com/j-princi3/ProjectPlatform]
-- (Personal Finance)[https://github.com/j-princi3/HisabKitab]
+- [Project Platform](https://github.com/j-princi3/ProjectPlatform)
+- [Personal Finance](https://github.com/j-princi3/HisabKitab)
 
 
 ## 📊 Coding Profiles
