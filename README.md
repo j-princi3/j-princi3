@@ -1,81 +1,100 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# Hi 👋, I'm Princi Jain
 
-###
+🚀 **Computer Science Engineering Undergraduate** | **Software Engineer Intern @ Eventbrite**  
+💡 Interested in **Cloud Infrastructure, Full-Stack Development, and Applied AI/ML**  
+📍 Hyderabad, Telangana
 
-<p align="left">Princi Jain</p>
+---
 
-###
+## 👩‍💻 About Me
 
-<!-- <p align="left">Hello World!!</p> -->
+- 🎓 B.Tech in **Computer Science Engineering** at **Keshav Memorial Institute of Technology**
+- 💼 Software Engineer Intern at **Eventbrite**
+- 🧠 Leetcoder 
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-</div>
+## 🛠️ Technical Skills
 
-###
+**Languages**  
+`Java` `Python` `SQL`
 
-<div align="left">
-  <a href="jainprinci00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/princi-jain-501538260/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+**Web & Frameworks**  
+`React` `Node.js` `Express` `Flask` `Flutter` `HTML` `CSS`
 
-###
+**Cloud & DevOps**  
+`AWS` `Docker` `CI/CD` `Git/GitHub` `AWS CDK`
 
-<img src="https://raw.githubusercontent.com/j-princi3/j-princi3/output/snake.svg" alt="Snake animation" />
+**Databases**  
+`MySQL` `MongoDB`
 
-###
+**Concepts & Tools**  
+`Data Structures & Algorithms` `OOP` `REST APIs` `Linux` `Bash Scripting`
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+---
 
-###
+## 💼 Experience
+
+### 💻 Software Engineer Intern — **Eventbrite**
+*Jul 2025 – Dec 2025*
+
+- Worked on **Infrastructure as Code (AWS CDK)** and internal developer tooling
+- Improved **security posture** by addressing vulnerabilities and hardening services
+- Enhanced **code quality and maintainability** through refactoring and linting
+- Fixed production bugs across **TypeScript and Python** services
+
+---
+
+### 🎮 Game Developer — **Tech for Autism and Dyslexia**
+*Apr 2024 – Sept 2024*
+
+- Developed an interactive **memory game for children with dyslexia**
+- Built a full-stack application using the **MERN stack**
+- Focused on **accessibility, usability, and responsive design**
+
+🔗 Repo: https://github.com/AquaSentinel
+
+---
+
+## 🚀 Projects
+
+### 🌊 Aqua Sentinel (2025)
+**Marine Surveillance System for Floating Debris Detection**
+
+- Built an AI-based surveillance system to detect **floating marine debris**
+- Applied computer vision models on remote sensing imagery
+- Designed for environmental monitoring and pollution awareness
+
+🔗 Repo: https://github.com/AquaSentinel
+
+---
+
+### 🛰️ Remote Sensing AI (2024)
+**Android Application for Flood & Crop Analysis**
+
+- Developed an Android app using **Flutter, FastAPI, and Docker**
+- Implemented models for **flood detection, crop classification, and SAR image colorization**
+- Focused on real-world applications in disaster management
+
+🔗 Repo: https://github.com/j-princi3/sar
+
+### Other Projects 
+Project Platform - Repo https://github.com/j-princi3/ProjectPlatform
+Personal Finance - Repo https://github.com/j-princi3/HisabKitab
+---
+
+## 📊 Coding Profiles
+
+- 💻 **LeetCode**: https://leetcode.com/u/j_princi3/
+- 🐙 **GitHub**: https://github.com/j-princi3
+- 🔗 **LinkedIn**: https://linkedin.com/in/princi-jain-501538260
+
+---
+
+## 📫 Contact Me
+
+📧 **Email**: jainprinci00@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
