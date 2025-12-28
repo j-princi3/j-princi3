@@ -14,10 +14,10 @@
 ## 🛠️ Technical Skills
 
 **Languages**  
-`Java` `Python` `SQL` `C++`
+`Java` `Python` `SQL` `C++` `JavaScript` `Typescript`
 
 **Web & Frameworks**  
-`React` `Node.js` `Express` `Flask` `Flutter` `HTML` `CSS` `Fast API`
+`React` `Node.js` `Express` `Flask` `Flutter` `HTML` `CSS` `Fast API` `Next.js`
 
 **Cloud & DevOps**  
 `AWS` `Docker` `CI/CD` `Git/GitHub` `AWS CDK`
